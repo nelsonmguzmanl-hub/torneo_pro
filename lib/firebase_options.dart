@@ -42,12 +42,12 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyDxAmIy5gQqexQ3WNb6pPGd9YifNSGknDw',
-    appId: '1:325752834360:web:85c12da6eeec1c8b5719cd',
+    appId: '1:325752834360:web:6a88604181834ce05719cd',
     messagingSenderId: '325752834360',
     projectId: 'torneos-futbol-app',
     authDomain: 'torneos-futbol-app.firebaseapp.com',
     storageBucket: 'torneos-futbol-app.firebasestorage.app',
-    measurementId: 'G-ZSMVX6SD5K',
+    measurementId: 'G-LBN1YQ5M7S',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
@@ -60,29 +60,34 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyDjhV7gZSN3LLEoKH8Fo-FkzYC7zCV8uEQ',
-    appId: '1:325752834360:ios:97c6fb300d8f45425719cd',
+    appId: '1:325752834360:ios:ea49b2ae11e278965719cd',
     messagingSenderId: '325752834360',
     projectId: 'torneos-futbol-app',
     storageBucket: 'torneos-futbol-app.firebasestorage.app',
-    iosBundleId: 'com.example.torneosFutbol',
+    androidClientId: '325752834360-5ddneth67ppvch08o11hthjogflsgtrq.apps.googleusercontent.com',
+    iosClientId: '325752834360-u5bhkadtiot49j48ap1b9pfmoj94r7gt.apps.googleusercontent.com',
+    iosBundleId: 'com.example.torneoPro',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyDjhV7gZSN3LLEoKH8Fo-FkzYC7zCV8uEQ',
-    appId: '1:325752834360:ios:97c6fb300d8f45425719cd',
+    appId: '1:325752834360:ios:ea49b2ae11e278965719cd',
     messagingSenderId: '325752834360',
     projectId: 'torneos-futbol-app',
     storageBucket: 'torneos-futbol-app.firebasestorage.app',
-    iosBundleId: 'com.example.torneosFutbol',
+    androidClientId: '325752834360-5ddneth67ppvch08o11hthjogflsgtrq.apps.googleusercontent.com',
+    iosClientId: '325752834360-u5bhkadtiot49j48ap1b9pfmoj94r7gt.apps.googleusercontent.com',
+    iosBundleId: 'com.example.torneoPro',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyDxAmIy5gQqexQ3WNb6pPGd9YifNSGknDw',
-    appId: '1:325752834360:web:6a88604181834ce05719cd',
+    appId: '1:325752834360:web:c575b2a91833a3565719cd',
     messagingSenderId: '325752834360',
     projectId: 'torneos-futbol-app',
     authDomain: 'torneos-futbol-app.firebaseapp.com',
     storageBucket: 'torneos-futbol-app.firebasestorage.app',
-    measurementId: 'G-LBN1YQ5M7S',
+    measurementId: 'G-DJ3SDJ6PZM',
   );
+
 }

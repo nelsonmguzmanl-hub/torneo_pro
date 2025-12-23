@@ -7,12 +7,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:325752834360:android:3d5b5bd80cf09f075719cd",
+        "mobilesdk_app_id": "1:325752834360:android:54ac012b6bb2213c5719cd",
         "android_client_info": {
           "package_name": "com.example.torneos_futbol"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "325752834360-6d6n0jnf27klphjcktt49l8st0t6hegr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyD0Lxd3ecVL8zin4hs0cPM4ZVlAIstCj48"
@@ -20,7 +25,63 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325752834360-6d6n0jnf27klphjcktt49l8st0t6hegr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "325752834360-l5qs1jml3sdpof62fdqpogmh5nvcjlsv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.torneosFutbol"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325752834360:android:3d5b5bd80cf09f075719cd",
+        "android_client_info": {
+          "package_name": "com.example.torneos_futbol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325752834360-5ddneth67ppvch08o11hthjogflsgtrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.torneos_futbol",
+            "certificate_hash": "1afcf36b9ae47bc3dfc10599bf6b56a75912b455"
+          }
+        },
+        {
+          "client_id": "325752834360-6d6n0jnf27klphjcktt49l8st0t6hegr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Lxd3ecVL8zin4hs0cPM4ZVlAIstCj48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325752834360-6d6n0jnf27klphjcktt49l8st0t6hegr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "325752834360-l5qs1jml3sdpof62fdqpogmh5nvcjlsv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.torneosFutbol"
+              }
+            }
+          ]
         }
       }
     }
