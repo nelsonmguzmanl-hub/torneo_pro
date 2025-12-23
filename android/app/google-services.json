@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325752834360",
+    "project_id": "torneos-futbol-app",
+    "storage_bucket": "torneos-futbol-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325752834360:android:3d5b5bd80cf09f075719cd",
+        "android_client_info": {
+          "package_name": "com.example.torneos_futbol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Lxd3ecVL8zin4hs0cPM4ZVlAIstCj48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

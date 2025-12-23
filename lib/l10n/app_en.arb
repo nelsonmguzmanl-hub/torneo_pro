@@ -1,0 +1,97 @@
+{
+  "@@locale": "en",
+
+  "appName": "Pools",
+  "welcomeSubtitle": "Manage your league like a professional.",
+  "startLabel": "Get Started",
+
+
+
+  "experience": "Experience",
+  "initialSetupTitle": "Initial Setup",
+  "personalizeYour": "Personalize your",
+  "initialSetupDescription": "Choose the tournament language and your preferred visual appearance to get started.",
+  "languageSectionTitle": "Language / Idioma",
+  "themeSectionTitle": "Theme / Tema",
+  "spanish": "Spanish",
+  "english": "English",
+  "lightTheme": "Light",
+  "darkTheme": "Dark",
+  "continueLabel": "Continue",
+
+
+  "loginTitle": "Sign in",
+  "loginSubtitle": "Access to continue",
+  "emailLabel": "Email",
+  "emailHint": "example@email.com",
+  "passwordLabel": "Password",
+  "forgotPassword": "Forgot your password?",
+  "loginButton": "Sign in",
+  "continueWith": "Or continue with",
+  "google": "Google",
+  "facebook": "Facebook",
+  "noAccount": "Don't have an account? ",
+  "registerHere": "Sign up",
+  "accountSuspended": "Your account is suspended. Please contact the administrator.",
+
+
+  "registerTitle": "Create account",
+  "registerHeadline": "Join the game",
+  "registerSubtitle": "Manage your tournaments, follow your team and stay up to date with statistics.",
+  "fullNameLabel": "Full name",
+  "fullNameHint": "e.g. John Doe",
+  "registerButton": "Sign up",
+  "alreadyHaveAccount": "Already have an account? ",
+  "loginHere": "Sign in",
+  "passwordMin": "Minimum 6 characters",
+
+
+  "resetPasswordTitle": "Reset password",
+  "resetPasswordSubtitle": "Forgot your password? Don’t worry. Enter your linked email and we’ll send you the instructions.",
+  "sendRequest": "Send request",
+  "needHelp": "Need help with the tournament?",
+  "contactSupport": "Contact support",
+
+
+  "resetEmailRequired": "Please enter your email address",
+  "resetEmailInvalid": "Please enter a valid email",
+  "resetEmailSent": "A password reset email has been sent",
+  "resetError": "An error occurred while sending the email",
+
+
+  "errorEmptyFields": "Please fill in all fields",
+  "errorInvalidEmail": "Invalid email",
+  "errorPasswordShort": "Password must be at least 6 characters",
+  "errorLogin": "Login error",
+  "userNotFound": "User not found",
+  "wrongPassword": "Incorrect password",
+
+
+  "loginEmptyFields": "Enter email and password",
+  "invalidEmail": "Invalid email address",
+  "loginError": "Login error",
+  "userNotFound": "User not found",
+  "wrongPassword": "Incorrect password",
+
+
+  "fillAllFields": "Please complete all fields",
+  "invalidEmail": "Invalid email address",
+  "passwordTooShort": "Password must be at least 6 characters",
+  "registerError": "Registration error",
+  "emailAlreadyInUse": "Email already registered",
+  "weakPassword": "Password is too weak",
+
+  "enterEmailAndPassword": "Enter email and password",
+  "loginError": "Login error",
+  "userNotFound": "User not found",
+  "wrongPassword": "Incorrect password",
+
+
+  "resetPasswordEmptyEmail": "Please enter your email",
+  "resetPasswordInvalidEmail": "Invalid email address",
+  "resetPasswordEmailSent": "We have sent you an email to reset your password",
+  "resetPasswordError": "Error sending reset email",
+
+  "back": "Back"
+}
+

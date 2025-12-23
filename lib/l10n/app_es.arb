@@ -1,0 +1,98 @@
+{
+  "@@locale": "es",
+
+  "appName": "Torneo Master",
+  "welcomeSubtitle": "Gestiona tu liga como un profesional.",
+  "startLabel": "Comenzar",
+
+
+  "experience": "Experiencia",
+  "initialSetupTitle": "Configuración Inicial",
+  "personalizeYour": "Personaliza tu",
+  "initialSetupDescription": "Elige el idioma del torneo y tu apariencia visual preferida para comenzar.",
+  "languageSectionTitle": "Idioma / Language",
+  "themeSectionTitle": "Tema / Theme",
+  "spanish": "Español",
+  "english": "Inglés",
+  "lightTheme": "Claro",
+  "darkTheme": "Oscuro",
+  "continueLabel": "Continuar",
+
+
+  "loginTitle": "Iniciar sesión",
+  "loginSubtitle": "Accede para continuar",
+  "emailLabel": "Correo electrónico",
+  "emailHint": "ejemplo@correo.com",
+  "passwordLabel": "Contraseña",
+  "forgotPassword": "¿Olvidaste tu contraseña?",
+  "loginButton": "Iniciar sesión",
+  "continueWith": "O continúa con",
+  "google": "Google",
+  "facebook": "Facebook",
+  "noAccount": "¿No tienes cuenta? ",
+  "registerHere": "Regístrate",
+  "accountSuspended": "Tu cuenta se encuentra suspendida. Contacta al administrador.",
+
+
+  "registerTitle": "Crear cuenta",
+  "registerHeadline": "Únete al juego",
+  "registerSubtitle": "Gestiona tus torneos, sigue a tu equipo y mantente al día con las estadísticas.",
+  "fullNameLabel": "Nombre completo",
+  "fullNameHint": "Ej. Juan Pérez",
+  "registerButton": "Registrarse",
+  "alreadyHaveAccount": "¿Ya tienes cuenta? ",
+  "loginHere": "Inicia sesión",
+  "passwordMin": "Mínimo 6 caracteres",
+
+
+
+  "resetPasswordTitle": "Recuperar contraseña",
+  "resetPasswordSubtitle": "¿Olvidaste tu contraseña? No te preocupes. Introduce tu correo vinculado y te enviaremos las instrucciones.",
+  "sendRequest": "Enviar solicitud",
+  "needHelp": "¿Necesitas ayuda con el torneo?",
+  "contactSupport": "Contactar soporte",
+
+
+  "resetEmailRequired": "Ingresa tu correo electrónico",
+  "resetEmailInvalid": "Ingresa un correo válido",
+  "resetEmailSent": "Se ha enviado un correo para restablecer tu contraseña",
+  "resetError": "Ocurrió un error al enviar el correo",
+
+
+  "errorEmptyFields": "Completa todos los campos",
+  "errorInvalidEmail": "Correo inválido",
+  "errorPasswordShort": "La contraseña debe tener al menos 6 caracteres",
+  "errorLogin": "Error al iniciar sesión",
+  "userNotFound": "Usuario no encontrado",
+  "wrongPassword": "Contraseña incorrecta",
+
+
+  "loginEmptyFields": "Ingresa correo y contraseña",
+  "invalidEmail": "Correo inválido",
+  "loginError": "Error al iniciar sesión",
+  "userNotFound": "Usuario no encontrado",
+  "wrongPassword": "Contraseña incorrecta",
+
+
+  "fillAllFields": "Completa todos los campos",
+  "invalidEmail": "Correo inválido",
+  "passwordTooShort": "La contraseña debe tener al menos 6 caracteres",
+  "registerError": "Error al registrarse",
+  "emailAlreadyInUse": "El correo ya está registrado",
+  "weakPassword": "La contraseña es muy débil",
+
+  "enterEmailAndPassword": "Ingresa correo y contraseña",
+  "loginError": "Error al iniciar sesión",
+  "userNotFound": "Usuario no encontrado",
+  "wrongPassword": "Contraseña incorrecta",
+
+
+
+  "resetPasswordEmptyEmail": "Ingresa tu correo",
+  "resetPasswordInvalidEmail": "Correo inválido",
+  "resetPasswordEmailSent": "Te enviamos un correo para recuperar tu contraseña",
+  "resetPasswordError": "Error al enviar el correo",
+
+
+  "back": "Regresar"
+}
